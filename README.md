@@ -4,7 +4,7 @@ This script will provide you the current temperature of a city using OpenWeather
 
 I wrote it when i was 14 yr old (almost 15).
 
-Thanks to OpenWeather for this amazing API functionality.
+Thanks to OpenWeather for this amazing API functionality, if you want to try it here's the link > https://openweathermap.org/
 
 YEAH, I know the API key is saved clear but I don't care about it.
 
