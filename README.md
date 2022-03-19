@@ -34,7 +34,9 @@ Make sure you are connected to internet ;)
 The plain/text file contains a link of OpenWeather Documentation
 
     1. Change this line of code if you want more or specific data >  temp = r['main']['temp']
+    
     2. In the OpenWeather Documention you will find all available types of data you can grab by their API
+    
     3. Edit the code as you want according to what you want to do
     
   
