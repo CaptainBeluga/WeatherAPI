@@ -17,7 +17,7 @@ YEAH, I know the API key is saved clear but I don't care about it.
 
 
 # Usage
-Make sure you are conncted to internet ;)
+Make sure you are connected to internet ;)
 
     GUIDE:
 
@@ -31,7 +31,7 @@ Make sure you are conncted to internet ;)
   
   
 # Implementations
-The text/plain file contains a link of OpenWeather Documentation
+The plain/text file contains a link of OpenWeather Documentation
 
     1. Change this line of code if you want more or specific data >  temp = r['main']['temp']
     2. In the OpenWeather Documention you will find all available types of data you can grab by their API
