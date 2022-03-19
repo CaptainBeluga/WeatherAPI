@@ -6,7 +6,7 @@ I wrote it when i was 14 yr old (almost 15).
 
 Thanks to OpenWeather for this amazing API functionality.
 
-YEAH, I know the API is saved clear but I don't care about it because I used a temp email to register to their website.
+YEAH, I know the API key is saved clear but I don't care about it.
 
 # Requirements
 ↓↓↓ All requirements are alredy installed when you install python but if you want to know ↓↓↓
